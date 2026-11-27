@@ -1,0 +1,18 @@
+# Build output
+target/
+*.class
+*.jar
+
+# Leaderboard data (generated at runtime in the user's home, never committed)
+leaderboard.dat
+*.dat
+.shottheball/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
